@@ -1,0 +1,930 @@
+Archive member included to satisfy reference by file (symbol)
+
+D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                              ./src/contador.o (Chip_IOCON_PinMux)
+D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                              ./src/sysinit.o (Chip_SystemInit)
+D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                              D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o) (Chip_Clock_EnablePLL)
+d:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc175x_6x.o (__main)
+
+Discarded input sections
+
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .group         0x00000000        0x8 ./src/contador.o
+ .text          0x00000000        0x0 ./src/contador.o
+ .data          0x00000000        0x0 ./src/contador.o
+ .bss           0x00000000        0x0 ./src/contador.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/cr_startup_lpc175x_6x.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0x892 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x10 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0x12d ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0x5b2 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x22 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x7b ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x10 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x2d ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x3a ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x2d ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0xbb1 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0x22c ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x42 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x52 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x78 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x82 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0x48c ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x34 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0x4c5 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0x1b7 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x10 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0x21b ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0x1b9 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x40 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x22 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0x162 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x94 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0xb8 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x4c ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x16 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000      0x328 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x49 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x16 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0xca ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x18 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00000000       0x2e ./src/cr_startup_lpc175x_6x.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .group         0x00000000        0x8 ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .debug_macro   0x00000000      0x892 ./src/crp.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .group         0x00000000        0x8 ./src/sysinit.o
+ .text          0x00000000        0x0 ./src/sysinit.o
+ .data          0x00000000        0x0 ./src/sysinit.o
+ .bss           0x00000000        0x0 ./src/sysinit.o
+ .rodata.OscRateIn
+                0x00000000        0x4 ./src/sysinit.o
+ .rodata.RTCOscRateIn
+                0x00000000        0x4 ./src/sysinit.o
+ .debug_macro   0x00000000      0x892 ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000      0x12d ./src/sysinit.o
+ .debug_macro   0x00000000      0x5b2 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000       0x7b ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000       0x2d ./src/sysinit.o
+ .debug_macro   0x00000000       0x3a ./src/sysinit.o
+ .debug_macro   0x00000000       0x2d ./src/sysinit.o
+ .debug_macro   0x00000000      0xbb1 ./src/sysinit.o
+ .debug_macro   0x00000000      0x22c ./src/sysinit.o
+ .debug_macro   0x00000000       0x42 ./src/sysinit.o
+ .debug_macro   0x00000000       0x52 ./src/sysinit.o
+ .debug_macro   0x00000000       0x78 ./src/sysinit.o
+ .debug_macro   0x00000000       0x82 ./src/sysinit.o
+ .debug_macro   0x00000000      0x48c ./src/sysinit.o
+ .debug_macro   0x00000000       0x34 ./src/sysinit.o
+ .debug_macro   0x00000000      0x4c5 ./src/sysinit.o
+ .debug_macro   0x00000000      0x1b7 ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000      0x21b ./src/sysinit.o
+ .debug_macro   0x00000000      0x1b9 ./src/sysinit.o
+ .debug_macro   0x00000000       0x40 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000      0x162 ./src/sysinit.o
+ .debug_macro   0x00000000       0x94 ./src/sysinit.o
+ .debug_macro   0x00000000       0xb8 ./src/sysinit.o
+ .debug_macro   0x00000000       0x4c ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000      0x328 ./src/sysinit.o
+ .debug_macro   0x00000000       0x49 ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000       0xca ./src/sysinit.o
+ .debug_macro   0x00000000       0x18 ./src/sysinit.o
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .text          0x00000000        0x0 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .data          0x00000000        0x0 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .bss           0x00000000        0x0 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .text.Chip_IOCON_PinMuxSet
+                0x00000000       0x38 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .text.Chip_IOCON_SetPinMuxing
+                0x00000000       0x64 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x12d D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x5b2 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x7b D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x3a D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0xbb1 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x22c D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x42 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x52 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x78 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x82 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x48c D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x34 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x4c5 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b7 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x21b D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b9 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x40 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x162 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x94 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0xb8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x4c D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000      0x328 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x49 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0xca D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00000000       0x18 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text          0x00000000        0x0 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .data          0x00000000        0x0 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .bss           0x00000000        0x0 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_EnableCrystal
+                0x00000000       0x20 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_IsCrystalEnabled
+                0x00000000       0x24 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_SetupXtalClocking
+                0x00000000       0x90 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x886 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x12d D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x5b2 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x7b D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x3a D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0xbb1 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x22c D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x42 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x52 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x78 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x82 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x48c D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x34 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x4c5 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b7 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x21b D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b9 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x40 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x162 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x94 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0xb8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x4c D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000      0x328 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x49 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0xca D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x00000000       0x18 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .group         0x00000000        0x8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text          0x00000000        0x0 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .data          0x00000000        0x0 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .bss           0x00000000        0x0 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsMainPLLEnabled
+                0x00000000       0x24 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsUSBPLLEnabled
+                0x00000000       0x24 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsMainPLLConnected
+                0x00000000       0x24 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsUSBPLLConnected
+                0x00000000       0x24 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetMainPLLSource
+                0x00000000       0x20 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetMainOscRate
+                0x00000000       0x14 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetIntOscRate
+                0x00000000       0x14 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetRTCOscRate
+                0x00000000       0x14 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetMainPLLInClockRate
+                0x00000000       0x10 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBPLLInClockRate
+                0x00000000       0x10 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_EnablePeriphClock
+                0x00000000       0x34 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x34 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_IsPeripheralClockEnabled
+                0x00000000       0x3c D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetCPUClockSource
+                0x00000000       0x2c D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetCPUClockSource
+                0x00000000       0x24 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetCPUClockDiv
+                0x00000000       0x1c D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetUSBClockDiv
+                0x00000000       0x30 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBClockDiv
+                0x00000000       0x1c D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetPCLKDiv
+                0x00000000       0x64 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetPCLKDiv
+                0x00000000       0x8c D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_SetCLKOUTSource
+                0x00000000       0x44 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetSYSCLKRate
+                0x00000000       0x34 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetMainPLLOutClockRate
+                0x00000000       0x54 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBPLLOutClockRate
+                0x00000000       0x40 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetMainClockRate
+                0x00000000       0x28 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetSystemClockRate
+                0x00000000       0x18 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetUSBClockRate
+                0x00000000       0x38 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_GetPeripheralClockRate
+                0x00000000       0x28 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x886 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x12d D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x5b2 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x7b D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x3a D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x2d D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0xbb1 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x22c D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x42 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x52 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x78 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x82 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x48c D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x34 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x4c5 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b7 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x10 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x21b D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x1b9 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x40 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x22 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x162 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x94 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0xb8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x4c D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000      0x328 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x49 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x16 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0xca D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .debug_macro   0x00000000       0x18 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text          0x00000000        0x0 d:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 d:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 d:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/contador.o
+LOAD ./src/cr_startup_lpc175x_6x.o
+LOAD ./src/crp.o
+LOAD ./src/sysinit.o
+LOAD D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a
+START GROUP
+LOAD d:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a
+LOAD d:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/armv7-m\libcr_eabihelpers.a
+END GROUP
+                0x00000000                __base_MFlash512 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00080000                __top_MFlash512 = 0x80000
+                0x00080000                __top_Flash = 0x80000
+                0x10000000                __base_RamLoc32 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x10008000                __top_RAM = 0x10008000
+                0x2007c000                __base_RamAHB32 = 0x2007c000
+                0x2007c000                __base_RAM2 = 0x2007c000
+                0x20084000                __top_RamAHB32 = 0x20084000
+                0x20084000                __top_RAM2 = 0x20084000
+
+.text           0x00000000      0x93c
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xcc ./src/cr_startup_lpc175x_6x.o
+                0x00000000                g_pfnVectors
+                0x000000cc                . = ALIGN (0x4)
+                0x000000cc                __section_table_start = .
+                0x000000cc                __data_section_table = .
+                0x000000cc        0x4 LONG 0x93c LOADADDR (.data)
+                0x000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000d4        0x4 LONG 0x4 SIZEOF (.data)
+                0x000000d8        0x4 LONG 0x93c LOADADDR (.data_RAM2)
+                0x000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000e4                __data_section_table_end = .
+                0x000000e4                __bss_section_table = .
+                0x000000e4        0x4 LONG 0x10000004 ADDR (.bss)
+                0x000000e8        0x4 LONG 0x20 SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4                __bss_section_table_end = .
+                0x000000f4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000f4      0x1f8 ./src/cr_startup_lpc175x_6x.o
+                0x000000f4                data_init
+                0x00000138                bss_init
+                0x00000170                ResetISR
+                0x000001e8                NMI_Handler
+                0x000001f0                HardFault_Handler
+                0x000001f8                MemManage_Handler
+                0x00000200                BusFault_Handler
+                0x00000208                UsageFault_Handler
+                0x00000210                SVC_Handler
+                0x00000218                DebugMon_Handler
+                0x00000220                PendSV_Handler
+                0x00000228                SysTick_Handler
+                0x000002e4                EINT3_IRQHandler
+                0x000002e4                CANActivity_IRQHandler
+                0x000002e4                TIMER3_IRQHandler
+                0x000002e4                UART0_IRQHandler
+                0x000002e4                UART1_IRQHandler
+                0x000002e4                EINT2_IRQHandler
+                0x000002e4                USBActivity_IRQHandler
+                0x000002e4                IntDefaultHandler
+                0x000002e4                PLL0_IRQHandler
+                0x000002e4                CAN_IRQHandler
+                0x000002e4                I2C1_IRQHandler
+                0x000002e4                SSP0_IRQHandler
+                0x000002e4                I2S_IRQHandler
+                0x000002e4                I2C2_IRQHandler
+                0x000002e4                RTC_IRQHandler
+                0x000002e4                TIMER0_IRQHandler
+                0x000002e4                SPI_IRQHandler
+                0x000002e4                RIT_IRQHandler
+                0x000002e4                EINT1_IRQHandler
+                0x000002e4                TIMER1_IRQHandler
+                0x000002e4                UART2_IRQHandler
+                0x000002e4                ADC_IRQHandler
+                0x000002e4                SSP1_IRQHandler
+                0x000002e4                USB_IRQHandler
+                0x000002e4                BOD_IRQHandler
+                0x000002e4                I2C0_IRQHandler
+                0x000002e4                WDT_IRQHandler
+                0x000002e4                PWM1_IRQHandler
+                0x000002e4                QEI_IRQHandler
+                0x000002e4                EINT0_IRQHandler
+                0x000002e4                ETH_IRQHandler
+                0x000002e4                PLL1_IRQHandler
+                0x000002e4                DMA_IRQHandler
+                0x000002e4                TIMER2_IRQHandler
+                0x000002e4                UART3_IRQHandler
+                0x000002e4                MCPWM_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x000002ec       0x10 ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__, .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/crp.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__, .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.NVIC_SetPriority
+                0x00000300       0x54 ./src/contador.o
+ .text.SysTick_Config
+                0x00000354       0x44 ./src/contador.o
+ .text.Chip_GPIO_SetPinDIROutput
+                0x00000398       0x38 ./src/contador.o
+ .text.Chip_GPIO_SetPinDIRInput
+                0x000003d0       0x3c ./src/contador.o
+ .text.Chip_GPIO_SetPinDIR
+                0x0000040c       0x44 ./src/contador.o
+ .text.Chip_GPIO_SetPinOutHigh
+                0x00000450       0x2c ./src/contador.o
+ .text.Chip_GPIO_SetPinOutLow
+                0x0000047c       0x2c ./src/contador.o
+ .text.main     0x000004a8      0x134 ./src/contador.o
+                0x000004a8                main
+ .text.Chip_GPIO_GetPinState
+                0x000005dc       0x38 ./src/cr_startup_lpc175x_6x.o
+ .text.Chip_GPIO_SetPinOutHigh
+                0x00000614       0x2c ./src/cr_startup_lpc175x_6x.o
+ .text.SystemInit
+                0x00000640       0x24 ./src/sysinit.o
+                0x00000640                SystemInit
+ .text.Chip_IOCON_PinMux
+                0x00000664       0x94 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                0x00000664                Chip_IOCON_PinMux
+ .text.Chip_Clock_IsMainPLLEnabled
+                0x000006f8       0x24 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_IsMainPLLLocked
+                0x0000071c       0x24 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_IsMainPLLConnected
+                0x00000740       0x24 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_Clock_SetMainPLLSource
+                0x00000764       0x20 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .text.Chip_SetupIrcClocking
+                0x00000784       0x6c D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                0x00000784                Chip_SetupIrcClocking
+ .text.Chip_SystemInit
+                0x000007f0        0xc D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                0x000007f0                Chip_SystemInit
+ .text.Chip_Clock_FeedPLL
+                0x000007fc       0x34 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .text.Chip_Clock_EnablePLL
+                0x00000830       0x44 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00000830                Chip_Clock_EnablePLL
+ .text.Chip_Clock_DisablePLL
+                0x00000874       0x48 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00000874                Chip_Clock_DisablePLL
+ .text.Chip_Clock_SetupPLL
+                0x000008bc       0x5c D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x000008bc                Chip_Clock_SetupPLL
+ .text.Chip_Clock_SetCPUClockDiv
+                0x00000918       0x20 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                0x00000918                Chip_Clock_SetCPUClockDiv
+ .text.__weak_main
+                0x00000938        0x4 d:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+                0x00000938                __weak_main
+                0x00000938                __main
+ *(.rodata .rodata.* .constdata .constdata.*)
+                0x0000093c                . = ALIGN (0x4)
+
+.glue_7         0x0000093c        0x0
+ .glue_7        0x0000093c        0x0 linker stubs
+
+.glue_7t        0x0000093c        0x0
+ .glue_7t       0x0000093c        0x0 linker stubs
+
+.vfp11_veneer   0x0000093c        0x0
+ .vfp11_veneer  0x0000093c        0x0 linker stubs
+
+.v4_bx          0x0000093c        0x0
+ .v4_bx         0x0000093c        0x0 linker stubs
+
+.iplt           0x0000093c        0x0
+ .iplt          0x0000093c        0x0 ./src/contador.o
+
+.rel.dyn        0x0000093c        0x0
+ .rel.iplt      0x0000093c        0x0 ./src/contador.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x0000093c                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000093c                __exidx_end = .
+                0x0000093c                _etext = .
+
+.data_RAM2      0x2007c000        0x0 load address 0x0000093c
+ FILL mask 0xff
+                [!provide]                PROVIDE (__start_data_RAM2, .)
+ *(.ramfunc.$RAM2)
+ *(.ramfunc.$RamAHB32)
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+                [!provide]                PROVIDE (__end_data_RAM2, .)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000        0x4 load address 0x0000093c
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.flag_c   0x10000000        0x4 ./src/cr_startup_lpc175x_6x.o
+                0x10000000                flag_c
+                0x10000004                . = ALIGN (0x4)
+                0x10000004                _edata = .
+
+.igot.plt       0x10000004        0x0 load address 0x00000940
+ .igot.plt      0x10000004        0x0 ./src/contador.o
+
+.bss_RAM2       0x2007c000        0x0
+                [!provide]                PROVIDE (__start_bss_RAM2, .)
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x2007c000                . = ALIGN ((. != 0x0)?0x4:0x1)
+                [!provide]                PROVIDE (__end_bss_RAM2, .)
+
+.bss            0x10000004       0x20
+                0x10000004                _bss = .
+ *(.bss*)
+ .bss.x         0x10000004        0x4 ./src/contador.o
+                0x10000004                x
+ .bss.estado    0x10000008        0x4 ./src/contador.o
+                0x10000008                estado
+ .bss.flag      0x1000000c        0x4 ./src/cr_startup_lpc175x_6x.o
+                0x1000000c                flag
+ .bss.enable_flag_c
+                0x10000010        0x4 ./src/cr_startup_lpc175x_6x.o
+                0x10000010                enable_flag_c
+ .bss.enable_flag_P
+                0x10000014        0x4 ./src/cr_startup_lpc175x_6x.o
+                0x10000014                enable_flag_P
+ .bss.res       0x10000018        0x4 ./src/cr_startup_lpc175x_6x.o
+                0x10000018                res
+ .bss.contador  0x1000001c        0x4 ./src/cr_startup_lpc175x_6x.o
+                0x1000001c                contador
+ .bss.cant      0x10000020        0x4 ./src/cr_startup_lpc175x_6x.o
+                0x10000020                cant
+ *(COMMON)
+                0x10000024                . = ALIGN (0x4)
+                0x10000024                _ebss = .
+                [!provide]                PROVIDE (end, .)
+
+.noinit_RAM2    0x2007c000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.noinit         0x10000024        0x0
+                0x10000024                _noinit = .
+ *(.noinit*)
+                0x10000024                . = ALIGN (0x4)
+                0x10000024                _end_noinit = .
+                [!provide]                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10008000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc32 - 0x0))
+                0xefff74b2                PROVIDE (__valid_user_code_checksum, (0x0 - ((((((_vStackTop + (ResetISR + 0x1)) + (NMI_Handler + 0x1)) + (HardFault_Handler + 0x1)) + (DEFINED (MemManage_Handler)?MemManage_Handler:0x0 + 0x1)) + (DEFINED (BusFault_Handler)?BusFault_Handler:0x0 + 0x1)) + (DEFINED (UsageFault_Handler)?UsageFault_Handler:0x0 + 0x1))))
+OUTPUT(contador.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x229c
+ .debug_info    0x00000000      0x902 ./src/contador.o
+ .debug_info    0x00000902      0x516 ./src/cr_startup_lpc175x_6x.o
+ .debug_info    0x00000e18       0x3f ./src/crp.o
+ .debug_info    0x00000e57      0x1c1 ./src/sysinit.o
+ .debug_info    0x00001018      0x2e9 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_info    0x00001301      0x439 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_info    0x0000173a      0xb62 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+
+.debug_abbrev   0x00000000      0xa92
+ .debug_abbrev  0x00000000      0x217 ./src/contador.o
+ .debug_abbrev  0x00000217      0x1f2 ./src/cr_startup_lpc175x_6x.o
+ .debug_abbrev  0x00000409       0x36 ./src/crp.o
+ .debug_abbrev  0x0000043f       0xcc ./src/sysinit.o
+ .debug_abbrev  0x0000050b      0x126 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_abbrev  0x00000631      0x175 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_abbrev  0x000007a6      0x2ec D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+
+.debug_aranges  0x00000000      0x2d0
+ .debug_aranges
+                0x00000000       0x58 ./src/contador.o
+ .debug_aranges
+                0x00000058       0x90 ./src/cr_startup_lpc175x_6x.o
+ .debug_aranges
+                0x000000e8       0x18 ./src/crp.o
+ .debug_aranges
+                0x00000100       0x20 ./src/sysinit.o
+ .debug_aranges
+                0x00000120       0x30 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_aranges
+                0x00000150       0x60 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_aranges
+                0x000001b0      0x120 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+
+.debug_ranges   0x00000000      0x258
+ .debug_ranges  0x00000000       0x48 ./src/contador.o
+ .debug_ranges  0x00000048       0x80 ./src/cr_startup_lpc175x_6x.o
+ .debug_ranges  0x000000c8       0x10 ./src/sysinit.o
+ .debug_ranges  0x000000d8       0x20 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_ranges  0x000000f8       0x50 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_ranges  0x00000148      0x110 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+
+.debug_macro    0x00000000     0x4b18
+ .debug_macro   0x00000000      0x1d6 ./src/contador.o
+ .debug_macro   0x000001d6      0x892 ./src/contador.o
+ .debug_macro   0x00000a68       0x10 ./src/contador.o
+ .debug_macro   0x00000a78      0x12d ./src/contador.o
+ .debug_macro   0x00000ba5      0x5b2 ./src/contador.o
+ .debug_macro   0x00001157       0x22 ./src/contador.o
+ .debug_macro   0x00001179       0x7b ./src/contador.o
+ .debug_macro   0x000011f4       0x10 ./src/contador.o
+ .debug_macro   0x00001204       0x2d ./src/contador.o
+ .debug_macro   0x00001231       0x3a ./src/contador.o
+ .debug_macro   0x0000126b       0x2d ./src/contador.o
+ .debug_macro   0x00001298      0xbb1 ./src/contador.o
+ .debug_macro   0x00001e49      0x22c ./src/contador.o
+ .debug_macro   0x00002075       0x42 ./src/contador.o
+ .debug_macro   0x000020b7       0x52 ./src/contador.o
+ .debug_macro   0x00002109       0x78 ./src/contador.o
+ .debug_macro   0x00002181       0x82 ./src/contador.o
+ .debug_macro   0x00002203      0x48c ./src/contador.o
+ .debug_macro   0x0000268f       0x34 ./src/contador.o
+ .debug_macro   0x000026c3      0x4c5 ./src/contador.o
+ .debug_macro   0x00002b88      0x1b7 ./src/contador.o
+ .debug_macro   0x00002d3f       0x10 ./src/contador.o
+ .debug_macro   0x00002d4f      0x21b ./src/contador.o
+ .debug_macro   0x00002f6a      0x1b9 ./src/contador.o
+ .debug_macro   0x00003123       0x40 ./src/contador.o
+ .debug_macro   0x00003163       0x22 ./src/contador.o
+ .debug_macro   0x00003185      0x162 ./src/contador.o
+ .debug_macro   0x000032e7       0x94 ./src/contador.o
+ .debug_macro   0x0000337b       0xb8 ./src/contador.o
+ .debug_macro   0x00003433       0x4c ./src/contador.o
+ .debug_macro   0x0000347f       0x16 ./src/contador.o
+ .debug_macro   0x00003495      0x328 ./src/contador.o
+ .debug_macro   0x000037bd       0x49 ./src/contador.o
+ .debug_macro   0x00003806       0x16 ./src/contador.o
+ .debug_macro   0x0000381c       0xca ./src/contador.o
+ .debug_macro   0x000038e6       0x18 ./src/contador.o
+ .debug_macro   0x000038fe       0x2e ./src/contador.o
+ .debug_macro   0x0000392c      0x1e4 ./src/cr_startup_lpc175x_6x.o
+ .debug_macro   0x00003b10       0x1a ./src/crp.o
+ .debug_macro   0x00003b2a       0x34 ./src/crp.o
+ .debug_macro   0x00003b5e      0x1cd ./src/sysinit.o
+ .debug_macro   0x00003d2b      0x1cd D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x00003ef8      0x886 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_macro   0x0000477e      0x1cd D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_macro   0x0000494b      0x1cd D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+
+.debug_line     0x00000000     0x1e14
+ .debug_line    0x00000000      0x4e2 ./src/contador.o
+ .debug_line    0x000004e2      0x4e7 ./src/cr_startup_lpc175x_6x.o
+ .debug_line    0x000009c9       0x75 ./src/crp.o
+ .debug_line    0x00000a3e      0x402 ./src/sysinit.o
+ .debug_line    0x00000e40      0x43e D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_line    0x0000127e      0x4c8 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_line    0x00001746      0x6ce D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+
+.debug_str      0x00000000    0x11b9b
+ .debug_str     0x00000000    0x10a36 ./src/contador.o
+                              0x10b2f (size before relaxing)
+ .debug_str     0x00010a36      0x1e1 ./src/cr_startup_lpc175x_6x.o
+                              0x1091e (size before relaxing)
+ .debug_str     0x00010c17       0xe9 ./src/crp.o
+                               0x25d3 (size before relaxing)
+ .debug_str     0x00010d00       0x1b ./src/sysinit.o
+                              0x106ab (size before relaxing)
+ .debug_str     0x00010d1b      0x1a4 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+                              0x105aa (size before relaxing)
+ .debug_str     0x00010ebf      0x282 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+                              0x10792 (size before relaxing)
+ .debug_str     0x00011141      0xa5a D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+                              0x1112d (size before relaxing)
+
+.comment        0x00000000       0x6e
+ .comment       0x00000000       0x6e ./src/contador.o
+                                 0x6f (size before relaxing)
+ .comment       0x0000006e       0x6f ./src/cr_startup_lpc175x_6x.o
+ .comment       0x0000006e       0x6f ./src/crp.o
+ .comment       0x0000006e       0x6f ./src/sysinit.o
+ .comment       0x0000006e       0x6f D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .comment       0x0000006e       0x6f D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .comment       0x0000006e       0x6f D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .comment       0x0000006e       0x6f d:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 ./src/contador.o
+ .ARM.attributes
+                0x00000033       0x33 ./src/cr_startup_lpc175x_6x.o
+ .ARM.attributes
+                0x00000066       0x33 ./src/crp.o
+ .ARM.attributes
+                0x00000099       0x33 ./src/sysinit.o
+ .ARM.attributes
+                0x000000cc       0x33 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .ARM.attributes
+                0x000000ff       0x33 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .ARM.attributes
+                0x00000132       0x33 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
+ .ARM.attributes
+                0x00000165       0x33 d:/nxp/mcuxpressoide_10.0.2_411/ide/tools/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libcr_c.a(__weak__main.o)
+
+.debug_frame    0x00000000      0x974
+ .debug_frame   0x00000000      0x140 ./src/contador.o
+ .debug_frame   0x00000140      0x1c4 ./src/cr_startup_lpc175x_6x.o
+ .debug_frame   0x00000304       0x34 ./src/sysinit.o
+ .debug_frame   0x00000338       0x80 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(iocon_17xx_40xx.o)
+ .debug_frame   0x000003b8      0x12c D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(sysinit_17xx_40xx.o)
+ .debug_frame   0x000004e4      0x490 D:\miescritorio\aplicaciones y juegos\pdisc\pdiscDabul\lpc_chip_175x_6x\Debug\liblpc_chip_175x_6x.a(clock_17xx_40xx.o)
